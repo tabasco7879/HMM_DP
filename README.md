@@ -1,7 +1,7 @@
 # HMM_DP
-Hidden Markov model with Dirichlet Process
+Hidden Markov model with Dirichlet Process for 2014 i2b2 de-identification challenge
 
-Python implementation of 2014 i2b2 de-identification challenge for
+## Reference
 ```
 Chen, Tao, Richard M. Cullen, and Marshall Godwin. 
 "Hidden Markov model using Dirichlet process for de-identification." 
